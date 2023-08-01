@@ -18,7 +18,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="../apprcc.qrc">
-    <normaloff>:/img/icon/图片1.png</normaloff>:/img/icon/图片1.png</iconset>
+    <normaloff>:/img/icon/图片1.jpg</normaloff>:/img/icon/图片1.jpg</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">#mainWindow{border:none;}</string>
@@ -118,7 +118,7 @@ border-radius:0px;}</string>
              </size>
             </property>
             <property name="styleSheet">
-             <string notr="true">image: url(:/img/icon/conan.png);</string>
+             <string notr="true">image: url(:/img/icon/conan.jpg);</string>
             </property>
             <property name="text">
              <string/>

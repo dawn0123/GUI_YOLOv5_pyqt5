@@ -4,10 +4,6 @@ This repo is based on [YOLOv5 v6.1](https://github.com/ultralytics/yolov5/tree/v
 
 Download the models of  YOLOv5 v6.1 from [here](https://github.com/ultralytics/yolov5/releases/tag/v6.1)，and put the them to the pt folder. When the GUI runs, the existing models will be automatically detected.
 
-Other versions: [v5.0](https://github.com/Javacr/PyQt5-YOLOv5/tree/yolov5_v5.0), ...
-
-If you're not interested in code, you can use the packaged GUI. Download link: [Google Drive](https://drive.google.com/file/d/1UpU0zqDsH_fgkiHw7wLakFMygULXM6qc/view?usp=sharing) or [Baidu Netdisk-pwd=6666](https://pan.baidu.com/s/105Hl2UqRSaDbh4hJQWQ8rg?pwd=6666 ).
-
 Download the zip file and unzip it to the destination, find and run main.exe
 
 ![location](./imgs/exe_location.JPG)
